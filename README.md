@@ -24,5 +24,5 @@
 - Make all necessary changes to project level files for project to run
   - In other words, make it work
   
- Collaborator
+ ### Collaborator
  Daniel, Wondwosen
